@@ -10,7 +10,7 @@ The idea is simple: high-resolution images look great, but they can also take up
 
 ## 🚀 Demo
 
-**Live Demo:** Add your live demo link here
+**Live Demo:** https://christiaan-c-cupido.github.io/Bulk-Image-Compressor/
 
 **GitHub:** Add your repository link here
 
