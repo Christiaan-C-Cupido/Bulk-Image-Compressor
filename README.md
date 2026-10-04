@@ -12,7 +12,7 @@ The idea is simple: high-resolution images look great, but they can also take up
 
 **Live Demo:** https://christiaan-c-cupido.github.io/Bulk-Image-Compressor/
 
-**GitHub:** Add your repository link here
+**GitHub:** https://github.com/Christiaan-C-Cupido/Bulk-Image-Compressor
 
 ---
 
